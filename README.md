@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/banner.png" width="100%">
+  <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
   <!-- Animated Welcome Text  -->
   <h1>
