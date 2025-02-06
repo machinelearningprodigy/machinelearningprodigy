@@ -195,6 +195,71 @@ me.say_hi()
   </a>
 </p>
 
+## 🌟 My GitHub Contributions 🌟  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 **3D Contribution Graph**
+<p align="center">
+  <a href="#"><img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/assets/3d-contrib.svg" alt="3D GitHub Contribution Graph" /></a>
+</p>
+
+---
+
+### 🎨 **Contribution Heatmap**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=machinelearningprodigy&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🐍 **Animated Contribution Snake**
+<p align="center">
+  <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### ⚡ **GitHub Stats & More!**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🚀 **Live GitHub Calendar**
+> **See your contributions dynamically update in a beautiful calendar format!**
+<p align="center">
+  <a href="https://github.com/machinelearningprodigy/github-profile-calendar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/calendar?username=machinelearningprodigy&theme=radical" alt="GitHub Calendar">
+  </a>
+</p>
+
+---
+
+### 🎭 **Contribution Badges**
+> Show off your contribution power with these badges!  
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/machinelearningprodigy?color=red&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/machinelearningprodigy?color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/machinelearningprodigy?color=yellow&style=for-the-badge" />
+</p>
+
+---
+
+### 🌌 **Animated Contribution Background**
+> Add a **futuristic** animated background with CSS! *(This works in some markdown renderers)*  
+```css
+body {
+  background: url('https://source.unsplash.com/random') no-repeat center center fixed;
+  background-size: cover;
+}
 
 <!-- Footer -->
 <h3 align="center">❤️ Thank you for visiting my profile! 🤝</h3>
