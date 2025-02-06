@@ -195,21 +195,6 @@ me.say_hi()
   </a>
 </p>
 
-<!-- 🌟 Contribution Grid Template -->
-<!-- Header Section with Dynamic GIF -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-  Contribution Wonderland 🚀
-</h1>
-<!-- Badges and Shields -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome">
-  <img src="https://img.shields.io/github/contributors/yourusername/yourproject.svg?style=for-the-badge" alt="Contributors">
-  <img src="https://img.shields.io/github/last-commit/yourusername/yourproject.svg?style=for-the-badge" alt="Last Commit">
-</p>
-<!-- Contribution Philosophy -->
-
-
 
 <!-- Footer -->
 <h3 align="center">❤️ Thank you for visiting my profile! 🤝</h3>
