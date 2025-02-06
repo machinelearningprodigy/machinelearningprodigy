@@ -5,7 +5,7 @@
   <!-- Animated Welcome Text  -->
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Welcome to Push, Pull & Pray 🙏
+    Welcome to Push, Pull & Pray!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
