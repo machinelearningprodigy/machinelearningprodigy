@@ -61,7 +61,7 @@ me.say_hi()
   💬 Happy to help with <b>Machine Learning</b>, <b>Web Development</b>, and <b>Open Source</b> <br>
   📫 How to reach me: <b>avaantivirus2021@gmail.com</b> <br>
   📝 I write articles on <a href="https://medium.com/@avaantivirus2021">Medium</a> <br>
-  ⚡ Fun fact: <b>I am darker than github's cat</b> 😹
+  ⚡ Fun fact: <b> commit to GitHub more than I commit to life decisions 😅</b> 
 </p>
 
 <!-- Animated Separator -->
