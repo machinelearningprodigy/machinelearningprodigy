@@ -203,9 +203,10 @@ me.say_hi()
 
 <h2 align="center">🌟 My Coding Journey</h2>
 <div align="center">
-  | <img width="380" src="https://wakatime.com/share/@rahul_linux/ccd07330-6e7c-4ea7-a4f1-e3cf8084c428.svg" alt="Languages Distribution"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/ce23dab0-7e60-484d-acaa-7c70fee18244.svg" alt="Coding Activity"> |
-  |:---:|:---:|
-  | <img width="380" src="https://wakatime.com/share/@rahul_linux/a740be16-cbd7-4f7a-a972-f3e5ecdc5e6a.svg" alt="Editors"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/38010a74-d16b-4ac8-8c79-87419ceaa705.svg" alt="Operating Systems"> |
+   <img width="380" src="https://wakatime.com/share/@rahul_linux/ccd07330-6e7c-4ea7-a4f1-e3cf8084c428.svg" alt="Languages Distribution">
+   <img width="380" src="https://wakatime.com/share/@rahul_linux/ce23dab0-7e60-484d-acaa-7c70fee18244.svg" alt="Coding Activity">
+  <img width="380" src="https://wakatime.com/share/@rahul_linux/a740be16-cbd7-4f7a-a972-f3e5ecdc5e6a.svg" alt="Editors">
+  <img width="380" src="https://wakatime.com/share/@rahul_linux/38010a74-d16b-4ac8-8c79-87419ceaa705.svg" alt="Operating Systems">
 </div>
 <br>
 
