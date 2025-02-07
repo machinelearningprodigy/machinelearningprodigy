@@ -198,24 +198,20 @@ me.say_hi()
 </p>
 
 
-# Hi there, I'm Rahul 👋
+## 📊 WakaTime Weekly Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📈 Languages Distribution
+<figure>
+  <img src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution" width="800">
+</figure>
 
-## 📊 My Coding Statistics
+### 📊 Coding Activity
+<figure>
+  <img src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity" width="800">
+</figure>
 
-### 💫 Weekly Coding Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=radical&hide_border=true)
 
-### ⌛ Total Coding Time
-[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
 
-### 📈 Weekly Language Distribution
-<figure><embed src="https://wakatime.com/share/@rahul_linux/b38c5a1c-e21c-4f97-a784-e591128cd757.svg"></embed></figure>
-
-### 📊 Weekly Coding Activity
-<figure><embed src="https://wakatime.com/share/@rahul_linux/da437dd9-06c6-4d58-be6a-c4246d21914d.svg"></embed></figure>
 
 <div align="center">
   <!-- Styled Stats Cards in One Row -->
