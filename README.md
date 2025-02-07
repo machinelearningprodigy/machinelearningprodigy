@@ -201,15 +201,23 @@ me.say_hi()
 
 
 
-## 🌟 My Coding Journey 
+<h2 align="center">🌟 My Coding Journey</h2>
 
-<p align="center">
-  <img width="400" src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution">
-  <img width="400" src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity">
-</p>
+<div align="center">
+  
+  | <img width="380" src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity"> |
+  |:---:|:---:|
+  | <img width="380" src="https://wakatime.com/share/@rahul_linux/a869d00a-fb2a-4013-8d9e-41e3883b357e.svg" alt="Weekly Statistics"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/6cce14cf-9dc7-42af-ae51-52a2d0b9a16e.svg" alt="Weekly Coding Hours"> |
 
+</div>
+
+<br>
+
+<!-- Total Coding Time -->
 <p align="center">
-  <img width="800" src="https://wakatime.com/share/@rahul_linux/a869d00a-fb2a-4013-8d9e-41e3883b357e.svg" alt="Weekly Statistics">
+  <a href="https://wakatime.com/@rahul_linux">
+    <img src="https://wakatime.com/badge/user/rahul_linux.svg" alt="Total time coded" />
+  </a>
 </p>
 
 
