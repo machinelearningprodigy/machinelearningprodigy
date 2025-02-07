@@ -203,6 +203,71 @@ me.say_hi()
 </p>
 
 
+
+
+
+
+
+### 🌟 Contribution Brilliance
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=github_dark" alt="Contribution Graph" />
+</p>
+
+<div align="center">
+  
+  <!-- Styled Stats Cards in One Row -->
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=machinelearningprodigy&theme=moonlight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machinelearningprodigy&theme=moonlight" />
+  </p>
+
+  <!-- Stats and Contributions Side by Side -->
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=machinelearningprodigy&theme=moonlight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=machinelearningprodigy&theme=moonlight" />
+  </p>
+
+</div>
+
+<!-- Activity Graph with Custom Styling -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<!-- Streak Stats with Custom Design -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=holi-theme&hide_border=true&background=0D1117&stroke=6FDA44&ring=6FDA44&fire=FF3B7E&currStreakLabel=6FDA44&sideLabels=6FDA44" />
+</p>
+
+<!-- Language Stats with Modern Look -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=6FDA44&text_color=FFFFFF" />
+</p>
+
+<!-- Quick Stats Grid -->
+<div align="center">
+  
+| Contributions | Repositories | Code Reviews |
+|:-------------:|:-----------:|:------------:|
+| ![](https://img.shields.io/badge/dynamic/json?color=6FDA44&label=Total&query=total_count&url=https://api.github.com/search/commits?q=author:machinelearningprodigy&style=for-the-badge) | ![](https://img.shields.io/badge/dynamic/json?color=6FDA44&label=Public&query=public_repos&url=https://api.github.com/users/machinelearningprodigy&style=for-the-badge) | ![](https://img.shields.io/badge/dynamic/json?color=6FDA44&label=Reviewed&query=total_count&url=https://api.github.com/search/issues?q=reviewed-by:machinelearningprodigy&style=for-the-badge) |
+
+</div>
+
+<!-- Commit Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
+
+
+
+
 <!-- Footer -->
 <h3 align="center">❤️ Thank you for visiting my profile! 🤝</h3>
 
