@@ -202,7 +202,7 @@ me.say_hi()
 ### 📊 Daily & Weekly Coding Stats
 
 #### 📅 **Daily Coding Activity**
-[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
 
 ![WakaTime Daily Graph](https://wakatime.com/share/@rahul_linux/a1b2c3d4-5678-90ab-cdef12345678.svg)
 
