@@ -200,6 +200,19 @@ me.say_hi()
 </p>
 
 
+<!--END_SECTION:waka-->
+### 📊 Daily & Weekly Coding Stats
+
+#### 📅 **Daily Coding Activity**
+[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+
+![WakaTime Daily Graph](https://wakatime.com/share/@rahul_linux/a1b2c3d4-5678-90ab-cdef12345678.svg)
+
+#### 📆 **Weekly Coding Activity**
+![WakaTime Weekly Graph](https://wakatime.com/share/@rahul_linux/abcdef12-3456-7890-abcd-ef1234567890.svg)
+
+
+
 <div align="center">
   <!-- Styled Stats Cards in One Row -->
   <p align="center">
