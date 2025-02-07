@@ -126,6 +126,11 @@ me.say_hi()
   GitHub Stats
 </h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" alt="GitHub Streak Stats">
+</p>
+
+
 <div align="center">
   <p align="center">
     <a href="https://github.com/machinelearningprodigy">
