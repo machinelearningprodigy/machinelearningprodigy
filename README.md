@@ -128,12 +128,9 @@ me.say_hi()
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/machinelearningprodigy">
-      <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="550" alt="Rahul's Github Stats"/>
-    </a>
     <br><br>
     <a href="https://github.com/machinelearningprodigy">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475" alt="Rahul's Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="600" alt="Rahul's Top Languages"/>
     </a>
   </p>
 
