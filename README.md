@@ -146,9 +146,9 @@ me.say_hi()
 <details>
   <summary align="center">📈 Contribution Graph</summary>
   <br/>
-  <div align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=github-compact"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
+</div>
 </details>
 
 <!-- GitHub Trophies -->
@@ -211,10 +211,7 @@ me.say_hi()
   </p>
 </div>
 
-<!-- Activity Graph with Custom Styling -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
-</p>
+
 
 
 
