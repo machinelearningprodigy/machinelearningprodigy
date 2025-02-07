@@ -198,17 +198,40 @@ me.say_hi()
 </p>
 
 
-## 📊 WakaTime Weekly Stats
 
-### 📈 Languages Distribution
-<figure>
-  <img src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution" width="800">
-</figure>
 
-### 📊 Coding Activity
-<figure>
-  <img src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity" width="800">
-</figure>
+
+
+## 🌟 My Coding Journey 
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <!-- First Row: Two cards side by side -->
+  <div style="width: 48%;">
+    <figure>
+      <img src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution" width="100%" style="background: linear-gradient(to right, #1a1a2e, #16213e); border-radius: 10px; padding: 10px;">
+    </figure>
+  </div>
+  
+  <div style="width: 48%;">
+    <figure>
+      <img src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity" width="100%" style="background: linear-gradient(to right, #1a1a2e, #16213e); border-radius: 10px; padding: 10px;">
+    </figure>
+  </div>
+</div>
+
+<!-- Second Row: Single card -->
+<div style="margin-top: 20px;">
+  <figure>
+    <img src="https://wakatime.com/share/@rahul_linux/a869d00a-fb2a-4013-8d9e-41e3883b357e.svg" alt="Weekly Statistics" width="100%" style="background: linear-gradient(to right, #1a1a2e, #16213e); border-radius: 10px; padding: 10px;">
+  </figure>
+</div>
+
+
+
+
+
+
+
 
 
 
