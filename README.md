@@ -1,18 +1,18 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/banner.png" width="100%">
+  <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
   <!-- Animated Welcome Text  -->
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Welcome to My Digital Universe!
+    Welcome to Push, Pull & Pray!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;AI+Researcher;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@ me.say_hi()
   💬 Happy to help with <b>Machine Learning</b>, <b>Web Development</b>, and <b>Open Source</b> <br>
   📫 How to reach me: <b>avaantivirus2021@gmail.com</b> <br>
   📝 I write articles on <a href="https://medium.com/@avaantivirus2021">Medium</a> <br>
-  ⚡ Fun fact: <b>I am darker than github's cat</b> 😹
+  ⚡ Fun fact: <b>I commit to GitHub more than I commit to life decisions 😅</b> 
 </p>
 
 <!-- Animated Separator -->
@@ -121,39 +121,31 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
+<h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Stats
 </h2>
 
 <p align="center">
+  <a href="https://github.com/machinelearningprodigy">
+    <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  </a>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" alt="GitHub Streak Stats">
 </p>
 
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/machinelearningprodigy">
-      <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="550" alt="Rahul's Github Stats"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/machinelearningprodigy">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475" alt="Rahul's Top Languages"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" width="600" alt="GitHub Streak Stats"/>
-  </p>
-</div>
 
 <!-- Contribution Graph -->
 <details>
   <summary align="center">📈 Contribution Graph</summary>
   <br/>
-  <div align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=github-compact"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
+</div>
 </details>
 
 <!-- GitHub Trophies -->
@@ -199,6 +191,23 @@ me.say_hi()
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 </p>
+
+
+
+### 🌟 Contribution Brilliance
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="800" alt="GitHub Stats" />
+</p>
+
+
+<div align="center">
+  <!-- Styled Stats Cards in One Row -->
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=machinelearningprodigy&theme=moonlight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machinelearningprodigy&theme=moonlight" />
+  </p>
+</div>
+
 
 <!-- Footer -->
 <h3 align="center">❤️ Thank you for visiting my profile! 🤝</h3>
