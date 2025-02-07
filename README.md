@@ -121,26 +121,23 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GitHub Stats
+</h2>
+
+<p align="center">
+  <a href="https://github.com/machinelearningprodigy">
+    <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  </a>
+</p>
+
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" alt="GitHub Streak Stats">
 </p>
 
-<div align="center">
-  <p align="center">
-    <br>
-    <a href="https://github.com/machinelearningprodigy">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="600" alt="Rahul's Top Languages"/>
-    </a>
-  </p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" width="600" alt="GitHub Streak Stats"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=dark&bg_color=000000&count_private=true&include_all_commits=true" width="600" alt="Daily Commits Stats"/>
-</p>
-</div>
 
 <!-- Contribution Graph -->
 <details>
@@ -210,12 +207,6 @@ me.say_hi()
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machinelearningprodigy&theme=moonlight" />
   </p>
 </div>
-
-
-
-
-
-
 
 
 <!-- Footer -->
