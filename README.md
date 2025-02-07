@@ -121,10 +121,10 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Stats
-</h2>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" alt="GitHub Streak Stats">
+</p>
 
 <div align="center">
   <p align="center">
