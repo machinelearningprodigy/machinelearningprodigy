@@ -202,27 +202,12 @@ me.say_hi()
 
 
 <h2 align="center">🌟 My Coding Journey</h2>
-
 <div align="center">
-  
-  | <img width="380" src="https://wakatime.com/share/@rahul_linux/ab1b4058-6cb4-481b-9d13-d4ba0d0af277.svg" alt="Languages Distribution"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/c0301d41-f945-43eb-b44c-0d8e72b63402.svg" alt="Coding Activity"> |
+  | <img width="380" src="https://wakatime.com/share/@rahul_linux/ccd07330-6e7c-4ea7-a4f1-e3cf8084c428.svg" alt="Languages Distribution"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/ce23dab0-7e60-484d-acaa-7c70fee18244.svg" alt="Coding Activity"> |
   |:---:|:---:|
-  | <img width="380" src="https://wakatime.com/share/@rahul_linux/a869d00a-fb2a-4013-8d9e-41e3883b357e.svg" alt="Weekly Statistics"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/6cce14cf-9dc7-42af-ae51-52a2d0b9a16e.svg" alt="Weekly Coding Hours"> |
-
+  | <img width="380" src="https://wakatime.com/share/@rahul_linux/a740be16-cbd7-4f7a-a972-f3e5ecdc5e6a.svg" alt="Editors"> | <img width="380" src="https://wakatime.com/share/@rahul_linux/38010a74-d16b-4ac8-8c79-87419ceaa705.svg" alt="Operating Systems"> |
 </div>
-
 <br>
-
-<!-- Total Coding Time -->
-<p align="center">
-  <a href="https://wakatime.com/@rahul_linux">
-    <img src="https://wakatime.com/badge/user/rahul_linux.svg" alt="Total time coded" />
-  </a>
-</p>
-
-
-
-
 
 
 
