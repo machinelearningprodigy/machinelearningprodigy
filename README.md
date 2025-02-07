@@ -198,23 +198,24 @@ me.say_hi()
 </p>
 
 
-## 📊 Weekly Development Breakdown
+# Hi there, I'm Rahul 👋
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
-
 <!--END_SECTION:waka-->
 
-### 📊 This Week I Spent My Time On:
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&show_icons=true&theme=gotham" alt="Wakatime Stats" />
+## 📊 My Coding Statistics
 
-### 📈 Weekly Language Stats
-<img src="https://wakatime.com/share/@rahul_linux/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" width="500">
+### 💫 Weekly Coding Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=radical&hide_border=true)
+
+### ⌛ Total Coding Time
+[![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
+
+### 📈 Weekly Language Distribution
+<figure><embed src="https://wakatime.com/share/@rahul_linux/b38c5a1c-e21c-4f97-a784-e591128cd757.svg"></embed></figure>
 
 ### 📊 Weekly Coding Activity
-<img src="https://wakatime.com/share/@rahul_linux/0e1393c5-9d06-4444-a748-f888f5427a5a.svg" width="500">
-
-
+<figure><embed src="https://wakatime.com/share/@rahul_linux/da437dd9-06c6-4d58-be6a-c4246d21914d.svg"></embed></figure>
 
 <div align="center">
   <!-- Styled Stats Cards in One Row -->
