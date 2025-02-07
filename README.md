@@ -198,6 +198,48 @@ me.say_hi()
 
 
 
+
+
+<div align="center">
+
+## 📊 Contribution Heatmap
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--  Year Stats -->
+<details>
+  <summary>⭐ Contribution Stats Year by Year</summary>
+  <br>
+  
+  ### 2024
+  <img src="https://ghchart.rshah.org/5BCDEC/YourUsername" alt="2024 GitHub Contributions" />
+  <br>
+
+  ### 2023
+  <img src="https://ghchart.rshah.org/409ba5/YourUsername" alt="2023 GitHub Contributions" />
+  <br>
+
+  ### 2022
+  <img src="https://ghchart.rshah.org/2c6b87/YourUsername" alt="2022 GitHub Contributions" />
+  <br>
+
+  ### 2021
+  <img src="https://ghchart.rshah.org/1d4b69/YourUsername" alt="2021 GitHub Contributions" />
+  <br>
+
+</details>
+
+<!-- Current Streak -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&background=0D1117&border=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF" />
+
+</div>
+
+
+
+
+
+
+
 ### ⚡ **GitHub Stats & More!**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" alt="GitHub Stats" />
