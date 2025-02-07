@@ -137,9 +137,12 @@ me.say_hi()
     </a>
   </p>
 
-  <p align="center">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" width="600" alt="GitHub Streak Stats"/>
-  </p>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=dark&bg_color=000000&count_private=true&include_all_commits=true" width="600" alt="Daily Commits Stats"/>
+</p>
 </div>
 
 <!-- Contribution Graph -->
