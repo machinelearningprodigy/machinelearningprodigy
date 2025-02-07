@@ -198,16 +198,21 @@ me.say_hi()
 </p>
 
 
-<!--END_SECTION:waka-->
-### 📊 Daily & Weekly Coding Stats
+## 📊 Weekly Development Breakdown
 
-#### 📅 **Daily Coding Activity**
+<!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
 
-![WakaTime Daily Graph](https://wakatime.com/share/@rahul_linux/a1b2c3d4-5678-90ab-cdef12345678.svg)
+<!--END_SECTION:waka-->
 
-#### 📆 **Weekly Coding Activity**
-![WakaTime Weekly Graph](https://wakatime.com/share/@rahul_linux/abcdef12-3456-7890-abcd-ef1234567890.svg)
+### 📊 This Week I Spent My Time On:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&show_icons=true&theme=gotham" alt="Wakatime Stats" />
+
+### 📈 Weekly Language Stats
+<img src="https://wakatime.com/share/@rahul_linux/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" width="500">
+
+### 📊 Weekly Coding Activity
+<img src="https://wakatime.com/share/@rahul_linux/0e1393c5-9d06-4444-a748-f888f5427a5a.svg" width="500">
 
 
 
