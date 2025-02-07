@@ -199,7 +199,7 @@ me.say_hi()
 
 ### 🌟 Contribution Brilliance
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="600" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="800" alt="GitHub Stats" />
 </p>
 
 
