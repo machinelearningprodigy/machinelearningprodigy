@@ -118,30 +118,25 @@
 
 
 
+<!-- Profile Views and WakaTime -->
 <div align="center">
-  <!-- WakaTime and Profile Views badges -->
   <a href="https://wakatime.com/@rahul_linux">
     <img height="20" padding-left=20 src="https://wakatime.com/badge/user/9f823b05-28a7-4406-b795-686e866c5233.svg" alt="WakaTime Badge"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img height="20" src="https://komarev.com/ghpvc/?username=machinelearningprodigy&color=blue" alt="GitHub Profile Views"/>
   </a>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake.svg" />
+      <img width="804px" alt="GitHub Contribution Snake" src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake-dark.svg" />
+    </picture>
+  </a>
 </div>
 
 
