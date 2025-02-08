@@ -70,13 +70,13 @@
 <!-- Langauge Section -->
 <h2 align="center">🔥 Language & Coding Activity</h2>
 <div width="100%" align="center">
-  <a href="https://github.com/machinelearningprodigy">
+<a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=20&size_weight=0.5&count_weight=0.5&hide=Less,SCSS,CSS,CMake" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide=Less,SCSS,CSS,CMake" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=20&size_weight=0.5&count_weight=0.5&hide=Less,SCSS,CSS,CMake" alt="Top Languages" />
     </picture>
-  </a>
+</a>
 <a href="https://wakatime.com/@rahul_linux">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=20&custom_title=Most%20Used%20Languages" />
