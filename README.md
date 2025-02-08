@@ -124,6 +124,10 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img height="20" src="https://komarev.com/ghpvc/?username=machinelearningprodigy&color=blue" alt="GitHub Profile Views"/>
   </a>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
   <a href="https://github.com/Platane/snk">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake-dark.svg" />
