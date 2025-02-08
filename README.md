@@ -119,7 +119,7 @@
 <!-- Snake -->
 <div align="center">
   <a href="https://wakatime.com/@rahul_linux">
-    <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt="WakaTime Badge"/>
+    <img height="20" padding-left=20 src="https://wakatime.com/badge/user/9f823b05-28a7-4406-b795-686e866c5233.svg" alt="WakaTime Badge"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img height="20" src="https://komarev.com/ghpvc/?username=machinelearningprodigy&color=blue" alt="GitHub Profile Views"/>
