@@ -71,20 +71,12 @@
   </a>
   <a href="https://wakatime.com/@rahul_linux">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" alt="Wakatime Stats" />
-    </picture>
-  </a>
-  <a href="https://wakatime.com/@rahul_linux">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" />
-      <img align="center" src="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" alt="Wakatime Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" />
+      <img align="center" src="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" alt="Wakatime Languages" />
     </picture>
   </a>
 </div>
-
 
 
 
