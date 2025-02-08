@@ -41,7 +41,7 @@
 - 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -65,6 +65,8 @@
     </picture>
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h2 align="center">🔥 Language & Coding Activity</h2>
 <div width="100%" align="center">
@@ -83,7 +85,7 @@
     </picture>
   </a>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -99,9 +101,10 @@
     <img src="https://skillicons.dev/icons?i=mysql,aws,firebase,docker,jenkins,linux,git,vscode" />
   </a>
 </div>
-
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -114,7 +117,7 @@
     </picture>
   </a>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -138,42 +141,8 @@
     </picture>
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- GitHub Stats Section -->
-  <a href="https://github.com/machinelearningprodigy">
-    <h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Stats
-</h2>
-
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningprodigy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=dark&background=000000" alt="GitHub Streak Stats">
-  </a>
-</p>
 
 
 <!-- Contribution Graph -->
@@ -184,24 +153,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
 </div>
 </details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Trophies -->
-<details>
-  <summary align="center">🏆 GitHub Trophies</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </p>
-</details>
 
-<!-- Latest Blog Posts -->
-<details>
-  <summary align="center">📝 Latest Blog Posts</summary>
-  <br/>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This section can be automated using GitHub Actions -->
-  <!-- BLOG-POST-LIST:END -->
-</details>
 
 <!-- Connect With Me -->
 <h2 align="center">
@@ -228,38 +182,16 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🌟 Contribution Brilliance
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="800" alt="GitHub Stats" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
-
-<h2 align="center">🌟 My Coding Journey</h2>
-<div align="center">
-   <img width="380" src="https://wakatime.com/share/@rahul_linux/ccd07330-6e7c-4ea7-a4f1-e3cf8084c428.svg" alt="Languages Distribution">
-   <img width="380" src="https://wakatime.com/share/@rahul_linux/ce23dab0-7e60-484d-acaa-7c70fee18244.svg" alt="Coding Activity">
-  <img width="380" src="https://wakatime.com/share/@rahul_linux/a740be16-cbd7-4f7a-a972-f3e5ecdc5e6a.svg" alt="Editors">
-  <img width="380" src="https://wakatime.com/share/@rahul_linux/38010a74-d16b-4ac8-8c79-87419ceaa705.svg" alt="Operating Systems">
-</div>
-<br>
-
-
-
-
-
-<div align="center">
-  <!-- Styled Stats Cards in One Row -->
-  <p align="center">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=machinelearningprodigy&theme=moonlight" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machinelearningprodigy&theme=moonlight" />
-  </p>
-</div>
 
 
 <!-- Footer -->
