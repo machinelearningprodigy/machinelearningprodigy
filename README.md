@@ -42,7 +42,6 @@
 - 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.
 
-<!-- GITHUB STAT SECTION -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
@@ -65,9 +64,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" alt="Top Languages" />
     </picture>
   </a>
   <a href="https://github.com/machinelearningprodigy">
