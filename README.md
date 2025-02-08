@@ -92,6 +92,7 @@
 
 
 <!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,react,nodejs,express,mongodb" />
@@ -105,9 +106,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
+<!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-
 <div width="100%" align="center">
   <a href="https://github-trophy.vercel.app">
     <picture>
@@ -141,18 +141,16 @@
     </picture>
   </a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
 <!-- Contribution Graph -->
-<details>
-  <summary align="center">📈 Contribution Graph</summary>
+<div align="center">📈 Contribution Graph</div>
   <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
 </div>
-</details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
