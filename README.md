@@ -144,10 +144,10 @@
 
 
 
-  <br>
-  <br>
+<br>
+<br>
 <!-- Contribution Graph -->
-<div align="center">📈 Contribution Graph</div>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" />
 </div>
