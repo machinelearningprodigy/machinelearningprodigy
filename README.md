@@ -164,8 +164,17 @@
   Connect with me
 </h2>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,medium" />
+  <a href="https://twitter.com/nitishm66803568">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/rahul-mishra-9a8826269">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/rahul9076mishra">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://medium.com/@avaantivirus2021">
+    <img src="https://skillicons.dev/icons?i=md" />
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
