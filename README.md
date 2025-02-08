@@ -26,9 +26,10 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
 
 <!-- About Me Section -->
-<img align="right" width="30%" src="Assets/Programming.gif">
+<img align="right" width="30%" src="[Assets/Programming.gif](https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif)">
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
