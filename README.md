@@ -122,8 +122,7 @@
   <br/>
   
   <!-- Web Development Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,js,ts" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,firebase,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,js,ts,dart,flutter,postgres,mysql,firebase,tailwind,postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <!-- Other Tools -->
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode,github,ubuntu" />
