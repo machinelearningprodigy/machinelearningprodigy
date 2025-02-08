@@ -106,11 +106,25 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,react,nodejs,express,mongodb,js,ts,c,dart,tensorflow,pytorch,flutter,postgres,mysql,aws,firebase,docker,jenkins,linux,git,vscode,gcp,azure,kubernetes,r,opencv" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,react,nodejs,express,mongodb,js,ts,c" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=dart,tensorflow,pytorch,flutter,postgres,mysql,aws,firebase,docker,jenkins" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
   </a>
 </div>
+
+
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
