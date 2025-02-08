@@ -47,7 +47,7 @@
 
 
 
-
+<!-- Github Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
@@ -66,6 +66,8 @@
   </a>
 </div>
 
+
+<!-- Langauge Section -->
 <h2 align="center">🔥 Language & Coding Activity</h2>
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
@@ -83,7 +85,6 @@
     </picture>
   </a>
 </div>
-
 
 
 
