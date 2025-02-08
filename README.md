@@ -44,46 +44,40 @@
 
 <!-- GITHUB STAT SECTION -->
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik">
+ <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
-      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
-      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy" />
+      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true" alt="Streak Stats" />
     </picture>
   </a>
 </div>
 
-
-
-<!-- LANGUAGE SECTION -->
 <h2 align="center">🔥 Language & Coding Activity</h2>
-
 <div width="100%" align="center">
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
     </picture>
   </a>
 </div>
-
 
 
 
