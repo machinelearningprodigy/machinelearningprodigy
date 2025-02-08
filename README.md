@@ -100,12 +100,31 @@
   </a>
 </div>
 
-
-
-
-
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div width="100%" align="center">
+  <a href="https://github-trophy.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&no-bg=false&margin-w=4&row=1" />
+      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
+    </picture>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- GitHub Stats Section -->
   <a href="https://github.com/machinelearningprodigy">
