@@ -29,7 +29,7 @@
 </div>
 
 <!-- About Me Section -->
-<img align="right" width="30%" src="[Assets/Programming.gif](https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif)">
+<img align="right" width="30%" src="https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif">
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
