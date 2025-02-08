@@ -42,6 +42,12 @@
 - 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.
 
+
+
+
+
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
@@ -64,19 +70,21 @@
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=8" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </picture>
   </a>
-  <a href="https://wakatime.com/@rahul_linux">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" />
-      <img align="center" src="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg" alt="Wakatime Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
     </picture>
   </a>
 </div>
+
+
 
 
 
