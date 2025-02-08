@@ -85,6 +85,17 @@
     </picture>
   </a>
 </div>
+
+
+<!-- Profile Views and WakaTime -->
+<div align="center">
+  <a href="https://wakatime.com/@rahul_linux">
+    <img height="20" padding-left=20 src="https://wakatime.com/badge/user/9f823b05-28a7-4406-b795-686e866c5233.svg" alt="WakaTime Badge"/>
+  </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img height="20" src="https://komarev.com/ghpvc/?username=machinelearningprodigy&color=blue" alt="GitHub Profile Views"/>
+  </a>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -121,15 +132,7 @@
 
 
 
-<!-- Profile Views and WakaTime -->
-<div align="center">
-  <a href="https://wakatime.com/@rahul_linux">
-    <img height="20" padding-left=20 src="https://wakatime.com/badge/user/9f823b05-28a7-4406-b795-686e866c5233.svg" alt="WakaTime Badge"/>
-  </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img height="20" src="https://komarev.com/ghpvc/?username=machinelearningprodigy&color=blue" alt="GitHub Profile Views"/>
-  </a>
-</div>
+
 
 <!-- Snake Animation -->
 <div align="center">
