@@ -64,20 +64,26 @@
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&hide=CSS,HTML,Jupyter%20Notebook,JavaScript,TypeScript,C%2B%2B,C,Shell,Dockerfile,SCSS,Less,Ruby,Swift,Kotlin" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=8" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
     </picture>
   </a>
-  <a href="https://github.com/machinelearningprodigy">
+  <a href="https://wakatime.com/@rahul_linux">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&custom_title=Wakatime%20Last%2014%20Languages" alt="Wakatime Stats" />
+    </picture>
+  </a>
+  <a href="https://wakatime.com/@rahul_linux">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" />
+      <img align="center" src="https://wakatime.com/share/@rahul_linux/9ab08c9c-e11f-4155-b019-f6bc97957610.svg" alt="Wakatime Languages" />
     </picture>
   </a>
 </div>
-
 
 
 
