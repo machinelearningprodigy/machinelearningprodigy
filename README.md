@@ -77,9 +77,9 @@
   </a>
 <a href="https://wakatime.com/@rahul_linux">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg?langs_count=20" />
-    <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg?langs_count=20" />
-    <img align="center" src="https://wakatime.com/share/@rahul_linux/23cfac67-524a-4889-8f8a-3b2988cf2b2f.svg?langs_count=20" alt="Wakatime Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=20&custom_title=Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=20&custom_title=Most%20Used%20Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=20&custom_title=Most%20Used%20Languages" alt="Wakatime Stats" />
   </picture>
 </a>
 </div>
