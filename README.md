@@ -106,7 +106,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <!-- Data Science, AI, ML Tools -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
@@ -120,13 +120,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   <br/>
+  
   <!-- Web Development Tools -->
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,js,ts" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,firebase,tailwind,postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <br/>
+  
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode,github,ubuntu" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
