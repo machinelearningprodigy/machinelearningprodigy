@@ -28,41 +28,20 @@
 
 
 <!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  About Me
-</h2>
+<img align="right" width="30%" src="Assets/Programming.gif">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
-```python
-class RahulMishra:
-    def __init__(self):
-        self.name = "Rahul Mishra"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["hi_IN", "en_US"]
-        self.current_work = "Machine Learning based tea leaf disease detection"
-        self.learning = "Flutter"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<h3>A Tech Enthusiast from India</h3>
 
-me = RahulMishra()
-me.say_hi()
-```
+- 👨‍💼 Frontend Developer **(Full time)** at [**Vitco**](https://vitcoimpex.in/).  
+- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
+- 📚 Proficient in **Full Stack Development**.  
+- 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
+- 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
+- 📍 Based in **Mecheda, West Bengal, India**.
 
-<!-- Current Status -->
-<h3 align="center">👨🏻‍💻 Current Status</h3>
 
-<p align="center">
-  🔭 Working on <b>Machine Learning based tea leaf disease detection system</b> <br>
-  🌱 Learning <b>Flutter</b> for cross-platform development <br>
-  💼 Open for collaborations in <b>Deep Learning</b> and <b>Web Development</b> <br>
-  💬 Happy to help with <b>Machine Learning</b>, <b>Web Development</b>, and <b>Open Source</b> <br>
-  📫 How to reach me: <b>avaantivirus2021@gmail.com</b> <br>
-  📝 I write articles on <a href="https://medium.com/@avaantivirus2021">Medium</a> <br>
-  ⚡ Fun fact: <b>I commit to GitHub more than I commit to life decisions 😅</b> 
-</p>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
