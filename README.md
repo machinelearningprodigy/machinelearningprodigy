@@ -255,16 +255,12 @@
 
 
 
-# GitHub Contribution Graphs
+### 📊 GitHub Commit Graph
 
-<!-- For Daily Commits -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Daily Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=react&hide_border=true)
 
-<!-- For Weekly/Monthly Commit Patterns -->
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/machinelearningprodigy/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://githubtrends.io)
+![Weekly & Monthly Commits](https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=react-dark&hide_border=true)
 
-<!-- For Detailed Stats with Graphs -->
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/machinelearningprodigy/langs?time_range=one_year&include_private=True&group=private&theme=dark)](https://githubtrends.io)
 
 
 
