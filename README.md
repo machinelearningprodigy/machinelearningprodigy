@@ -217,7 +217,7 @@
 
 
 <!-- Footer -->
-<h3 align="center"> <img src="![image](https://github.com/user-attachments/assets/e5918171-9296-45e8-aa53-96455fb7c320)"> Thank you for visiting my profile! <img src="https://media.tenor.com/6ph1w40DrykAAAAC/handshake-joypixels.gif"></h3>
+<h3 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> </h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
