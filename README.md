@@ -4,9 +4,9 @@
   
   <!-- Animated Welcome Text  -->
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Welcome to Push, Pull & Pray!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZwaG5ka3ZiZDF1anRnM294N3NmYWE4eWF5MDU2ZGV6MGJkYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FpKixMu71s8mi6SSLE/giphy.gif" width="30px"/>
+     Commit, Build, Succeed!
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZwaG5ka3ZiZDF1anRnM294N3NmYWE4eWF5MDU2ZGV6MGJkYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FpKixMu71s8mi6SSLE/giphy.gif" width="30px"/>
   </h1>
   
 <!-- Typing SVG -->
