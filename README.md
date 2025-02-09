@@ -4,9 +4,9 @@
   
   <!-- Animated Welcome Text  -->
   <h1>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZwaG5ka3ZiZDF1anRnM294N3NmYWE4eWF5MDU2ZGV6MGJkYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FpKixMu71s8mi6SSLE/giphy.gif" width="30px"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dlYjNieTVocGcwa3h5MDBsOHJuem9sZ2Jib3llNW8wbXdhNGgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5By3oeHFeJPtkBdHj/giphy.gif" width="30px"/>
      Commit, Build, Succeed!
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZwaG5ka3ZiZDF1anRnM294N3NmYWE4eWF5MDU2ZGV6MGJkYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FpKixMu71s8mi6SSLE/giphy.gif" width="30px"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dlYjNieTVocGcwa3h5MDBsOHJuem9sZ2Jib3llNW8wbXdhNGgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5By3oeHFeJPtkBdHj/giphy.gif" width="30px"/>
   </h1>
   
 <!-- Typing SVG -->
