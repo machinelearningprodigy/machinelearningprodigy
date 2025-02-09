@@ -205,9 +205,9 @@
 
 
 
-<h2 align="center">✨ Rahul Mishra's Contribution Timeline</h2>
+<h2 align="center">✨ Contribution Timeline</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="900" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Rahul%20Mishra's%20Contribution%20Timeline&bg_color=0D1117&color=05F4FF&title_color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="1000" />
 </div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="900" alt="GitHub Stats" />
 
