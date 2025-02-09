@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/e5003746-33db-4c28-839e-dd53fc8a4283)![image](https://github.com/user-attachments/assets/1b606bae-927f-4b39-a2fe-224ec5495c6d)<div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
@@ -217,7 +217,7 @@
 
 
 <!-- Footer -->
-<h3 align="center">❤️ Thank you for visiting my profile! 🤝</h3>
+<h3 align="center"> <img src="![image](https://github.com/user-attachments/assets/e5918171-9296-45e8-aa53-96455fb7c320)"> Thank you for visiting my profile! <img src="https://media.tenor.com/6ph1w40DrykAAAAC/handshake-joypixels.gif"></h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
