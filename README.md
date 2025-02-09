@@ -153,9 +153,8 @@
 </div>
 
 
-<div align="center">
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-snake-dark.svg)
-</div>
 
 
 
