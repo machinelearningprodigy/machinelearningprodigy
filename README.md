@@ -217,15 +217,13 @@
 
 
 <!-- Footer -->
-<h3 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/>Thank you for visiting my profile!<img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> </h3>
+<h3 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> </h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 <div align="center">
-<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"
-     style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;"/>
-
+<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;"/>
 </div>
 
 
