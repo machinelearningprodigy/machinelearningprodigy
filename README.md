@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5003746-33db-4c28-839e-dd53fc8a4283)![image](https://github.com/user-attachments/assets/1b606bae-927f-4b39-a2fe-224ec5495c6d)<div align="center">
+<div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
