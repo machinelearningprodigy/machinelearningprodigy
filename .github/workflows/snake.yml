@@ -1,30 +1,32 @@
 name: Generate Snake Animation
 
 on:
+  # Schedule the workflow to run daily at midnight
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 0 * * *"
+  # Allows manual triggering of the workflow
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks out repository under $GITHUB_WORKSPACE
-      - uses: actions/checkout@v2
+      # Check out the repository's code
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-      # Generates the snake
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Generate the snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: machinelearningprodigy
-          # these outputs will be available in your repository's 'output' branch
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the output branch
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+      # Push the generated animation to the output branch
+      - name: Push Generated Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
