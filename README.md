@@ -223,8 +223,7 @@
 
 <h2 align="center">✨ Contributions Over Time</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" width="900" />
-</div>
+![Daily Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=react&hide_border=true)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="900" alt="GitHub Stats" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -261,6 +260,10 @@
 
 ![Weekly & Monthly Commits](https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=react-dark&hide_border=true)
 
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" width="900" />
+</div>
 
 
 
