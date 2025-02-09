@@ -1,28 +1,3 @@
-<!-- 1. Basic Weekly Stats -->
-[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=tokyonight)](https://wakatime.com/@rahul_linux)
-
-<!-- 2. Language Breakdown Graph -->
-<img src="https://wakatime.com/share/@rahul_linux/6c9dfdc7-2da9-4e79-bf8e-2c2bb254b7cf.svg" height="400"/>
-
-<!-- 3. Coding Activity Graph -->
-<img src="https://wakatime.com/share/@rahul_linux/c01b69aa-e582-451d-b873-234dc6f4b8d8.svg" height="400"/>
-
-<!-- 4. Time Spent in Different Editors -->
-<img src="https://wakatime.com/share/@rahul_linux/08b95700-d97e-4e4e-9c81-45e4db077467.svg" height="400"/>
-
-<!-- 5. Operating Systems Usage -->
-<img src="https://wakatime.com/share/@rahul_linux/780e31ff-2f90-4c54-8d1e-287113b972fa.svg" height="400"/>
-
-<!-- 6. Simple Time Tracking Badge -->
-[![Time tracker](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
-
-<!-- 7. Weekly Development Breakdown Using GitHub Actions -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-
 <div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
