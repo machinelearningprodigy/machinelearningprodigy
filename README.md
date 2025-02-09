@@ -180,21 +180,26 @@
  <a href="https://instagram.com/rahul9076mishra">
    <img src="https://skillicons.dev/icons?i=instagram" />
  </a>
- <a href="https://medium.com/@avaantivirus2021">
+<a href="https://medium.com/@avaantivirus2021">
    <img src="https://skillicons.dev/icons?i=md" />
- </a>
- <a href="https://www.hackerrank.com/avaantivirus2021">
-   <img src="https://skillicons.dev/icons?i=hackerrank" />
- </a>
- <a href="https://kaggle.com/abcllld">
+</a>
+
+<a href="https://www.hackerrank.com/avaantivirus2021">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://kaggle.com/abcllld">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45"/>
- </a>
- <a href="https://www.facebook.com/[your-username]">
-   <img src="https://skillicons.dev/icons?i=facebook" />
- </a>
- <a href="https://www.threads.net/@[your-username]">
-   <img src="https://seeklogo.com/images/T/threads-logo-B6AD593797-seeklogo.com.png" width="45" height="45"/>
- </a>
+</a>
+
+<a href="https://www.facebook.com/[your-username]">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.threads.net/@[your-username]">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Threads_%28app%29_logo.svg" width="45" height="45"/>
+</a>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
