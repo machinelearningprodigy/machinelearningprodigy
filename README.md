@@ -1,21 +1,24 @@
-<!-- Basic WakaTime Card -->
-[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=dark)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- 1. Basic Weekly Stats -->
+[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=tokyonight)](https://wakatime.com/@rahul_linux)
 
-<!-- Compact Layout -->
-[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- 2. Language Breakdown Graph -->
+<img src="https://wakatime.com/share/@rahul_linux/6c9dfdc7-2da9-4e79-bf8e-2c2bb254b7cf.svg" height="400"/>
 
-<!-- Using Custom Title -->
-[![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&custom_title=My%20Coding%20Activity&theme=tokyonight)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- 3. Coding Activity Graph -->
+<img src="https://wakatime.com/share/@rahul_linux/c01b69aa-e582-451d-b873-234dc6f4b8d8.svg" height="400"/>
 
-<!-- Hide Progress Bars -->
-[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&hide_progress=true&theme=synthwave)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- 4. Time Spent in Different Editors -->
+<img src="https://wakatime.com/share/@rahul_linux/08b95700-d97e-4e4e-9c81-45e4db077467.svg" height="400"/>
 
-<!-- Using WakaTime's Own Embedded Charts -->
-[![Rahul's Coding Activity](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
+<!-- 5. Operating Systems Usage -->
+<img src="https://wakatime.com/share/@rahul_linux/780e31ff-2f90-4c54-8d1e-287113b972fa.svg" height="400"/>
 
-<!-- Time Range Badge -->
-![Total Time](https://wakatime.com/badge/user/rahul_linux/project/hexagon-green.svg)
+<!-- 6. Simple Time Tracking Badge -->
+[![Time tracker](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
 
+<!-- 7. Weekly Development Breakdown Using GitHub Actions -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
