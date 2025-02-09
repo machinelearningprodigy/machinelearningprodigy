@@ -255,14 +255,16 @@
 
 
 
-# Daily Commits
-![Daily GitHub Commits](https://activity-graph.herokuapp.com/graph?username=machinelearningprodigy&theme=minimal)
+# GitHub Contribution Graphs
 
-# Weekly & Monthly Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&count_private=true)
+<!-- For Daily Commits -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy)
+<!-- For Weekly/Monthly Commit Patterns -->
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/machinelearningprodigy/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://githubtrends.io)
+
+<!-- For Detailed Stats with Graphs -->
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/machinelearningprodigy/langs?time_range=one_year&include_private=True&group=private&theme=dark)](https://githubtrends.io)
 
 
 
