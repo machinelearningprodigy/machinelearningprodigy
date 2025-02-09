@@ -192,13 +192,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.facebook.com/[your-username]">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
+<a href="https://discord.com/users/rahuder">
+   <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
 </a>
 
-<a href="https://www.threads.net/@[your-username]">
-   <img src="https://static.cdnlogo.com/logos/t/66/threads.svg" width="45" height="45"/>
-</a>
+
+
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
