@@ -259,16 +259,4 @@
 
 
 
-<text x="20" y="40" fill="#ff69b4" font-family="Arial" font-size="20" font-weight="bold">Commit Activity</text>
-
-<text x="20" y="80" fill="#40E0D0" font-family="Arial" font-size="14">Daily:</text>
-<text x="120" y="80" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{daily}</text>
-
-<text x="20" y="110" fill="#40E0D0" font-family="Arial" font-size="14">Weekly:</text>
-<text x="120" y="110" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{weekly}</text>
-
-<text x="20" y="140" fill="#40E0D0" font-family="Arial" font-size="14">Monthly:</text>
-<text x="120" y="140" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{monthly}</text>
-
-<circle cx="320" cy="90" r="40" stroke="#ff69b4" stroke-width="4" fill="none" stroke-dasharray="251.2" stroke-dashoffset="62.8"/>
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/machinelearningprodigy)
