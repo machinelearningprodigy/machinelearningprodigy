@@ -1,10 +1,7 @@
-### 📈 GitHub Commit Stats
+### 📊 Commit Activity
 
-#### 🗓️ Daily Commits  
-![Daily Commits](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=react&hide_border=true)
+![Daily, Weekly, and Monthly Commits](https://github-metrics.vercel.app/api?username=machinelearningprodigy&template=classic&base=activity&config.timezone=Asia/Kolkata)
 
-#### 📆 Weekly & Monthly Commits  
-![Weekly & Monthly Commits](https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true)
 
 
 
