@@ -48,7 +48,7 @@
 
 
 <!-- Github Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="80px"> GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
     <picture>
@@ -103,7 +103,7 @@
 
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80px"> Tech Stack</h2>
 <div align="center">
   <!-- Data Science, AI, ML Tools -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
