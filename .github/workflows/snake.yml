@@ -1,12 +1,13 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:  # Allows manual trigger
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 jobs:
   generate:
+    name: Snake Animation
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -26,3 +27,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
