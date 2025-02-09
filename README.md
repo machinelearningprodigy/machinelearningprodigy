@@ -197,7 +197,7 @@
 </a>
 
 <a href="https://www.threads.net/@[your-username]">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Threads_%28app%29_logo.png" width="45" height="45"/>
+   <img src="https://static.cdnlogo.com/logos/t/66/threads.svg" width="45" height="45"/>
 </a>
 
 </div>
