@@ -48,7 +48,7 @@
 
 
 <!-- Github Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="30px"/> GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
     <picture>
