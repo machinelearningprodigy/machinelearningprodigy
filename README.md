@@ -1,3 +1,13 @@
+<!-- WakaTime Weekly Stats -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rahul_linux)](https://github.com/machinelearningprodigy/github-readme-stats)
+
+<!-- WakaTime Weekly Language Stats -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rahul_linux&layout=compact)](https://github.com/machinelearningprodigy/github-readme-stats)
+
+
+
+
+
 <div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
