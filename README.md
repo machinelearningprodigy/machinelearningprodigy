@@ -1,54 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 722 112">
-    <g transform="translate(10, 20)">
-        <!-- Background -->
-        <rect width="702" height="82" fill="#ffffff"/>
-        
-        <!-- Sample contribution grid -->
-        <g transform="translate(0, 0)">
-            <!-- Weeks -->
-            <g transform="translate(0, 0)">
-                <!-- Each column represents a week -->
-                <g transform="translate(0, 0)">
-                    <!-- Days in a week -->
-                    <rect class="day" width="10" height="10" x="0" y="0" fill="#ebedf0"/>
-                    <rect class="day" width="10" height="10" x="0" y="12" fill="#9be9a8"/>
-                    <rect class="day" width="10" height="10" x="0" y="24" fill="#40c463"/>
-                    <rect class="day" width="10" height="10" x="0" y="36" fill="#30a14e"/>
-                    <rect class="day" width="10" height="10" x="0" y="48" fill="#216e39"/>
-                </g>
-                
-                <!-- Repeat pattern for more weeks -->
-                <g transform="translate(12, 0)">
-                    <rect class="day" width="10" height="10" x="0" y="0" fill="#9be9a8"/>
-                    <rect class="day" width="10" height="10" x="0" y="12" fill="#40c463"/>
-                    <rect class="day" width="10" height="10" x="0" y="24" fill="#30a14e"/>
-                    <rect class="day" width="10" height="10" x="0" y="36" fill="#216e39"/>
-                    <rect class="day" width="10" height="10" x="0" y="48" fill="#ebedf0"/>
-                </g>
-                
-                <!-- Add more weeks (repeated pattern) -->
-                <g transform="translate(24, 0)">
-                    <rect class="day" width="10" height="10" x="0" y="0" fill="#40c463"/>
-                    <rect class="day" width="10" height="10" x="0" y="12" fill="#30a14e"/>
-                    <rect class="day" width="10" height="10" x="0" y="24" fill="#216e39"/>
-                    <rect class="day" width="10" height="10" x="0" y="36" fill="#ebedf0"/>
-                    <rect class="day" width="10" height="10" x="0" y="48" fill="#9be9a8"/>
-                </g>
-            </g>
-        </g>
-        
-        <!-- Legend -->
-        <g transform="translate(550, 5)">
-            <text x="0" y="5" style="font-family: Arial; font-size: 9px; fill: #767676">Less</text>
-            <rect width="10" height="10" x="35" y="0" fill="#ebedf0"/>
-            <rect width="10" height="10" x="50" y="0" fill="#9be9a8"/>
-            <rect width="10" height="10" x="65" y="0" fill="#40c463"/>
-            <rect width="10" height="10" x="80" y="0" fill="#30a14e"/>
-            <rect width="10" height="10" x="95" y="0" fill="#216e39"/>
-            <text x="110" y="5" style="font-family: Arial; font-size: 9px; fill: #767676">More</text>
-        </g>
-    </g>
-</svg>
 
 
 
@@ -293,4 +242,33 @@
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;"/>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text x="20" y="40" fill="#ff69b4" font-family="Arial" font-size="20" font-weight="bold">Commit Activity</text>
+
+<text x="20" y="80" fill="#40E0D0" font-family="Arial" font-size="14">Daily:</text>
+<text x="120" y="80" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{daily}</text>
+
+<text x="20" y="110" fill="#40E0D0" font-family="Arial" font-size="14">Weekly:</text>
+<text x="120" y="110" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{weekly}</text>
+
+<text x="20" y="140" fill="#40E0D0" font-family="Arial" font-size="14">Monthly:</text>
+<text x="120" y="140" fill="#ffffff" font-family="Arial" font-size="14" class="commit-count">{monthly}</text>
+
+<circle cx="320" cy="90" r="40" stroke="#ff69b4" stroke-width="4" fill="none" stroke-dasharray="251.2" stroke-dashoffset="62.8"/>
 
