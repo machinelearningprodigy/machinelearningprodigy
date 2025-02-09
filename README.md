@@ -1,8 +1,20 @@
-<!-- WakaTime Weekly Stats -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rahul_linux)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- Basic WakaTime Card -->
+[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&theme=dark)](https://github.com/machinelearningprodigy/github-readme-stats)
 
-<!-- WakaTime Weekly Language Stats -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rahul_linux&layout=compact)](https://github.com/machinelearningprodigy/github-readme-stats)
+<!-- Compact Layout -->
+[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical)](https://github.com/machinelearningprodigy/github-readme-stats)
+
+<!-- Using Custom Title -->
+[![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&custom_title=My%20Coding%20Activity&theme=tokyonight)](https://github.com/machinelearningprodigy/github-readme-stats)
+
+<!-- Hide Progress Bars -->
+[![Rahul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_linux&hide_progress=true&theme=synthwave)](https://github.com/machinelearningprodigy/github-readme-stats)
+
+<!-- Using WakaTime's Own Embedded Charts -->
+[![Rahul's Coding Activity](https://wakatime.com/badge/user/rahul_linux.svg)](https://wakatime.com/@rahul_linux)
+
+<!-- Time Range Badge -->
+![Total Time](https://wakatime.com/badge/user/rahul_linux/project/hexagon-green.svg)
 
 
 
