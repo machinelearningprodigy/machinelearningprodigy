@@ -1,23 +1,3 @@
-### 📊 Commit Activity
-
-![Daily, Weekly, and Monthly Commits](https://github-metrics.vercel.app/api?username=machinelearningprodigy&template=classic&base=activity&config.timezone=Asia/Kolkata)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
@@ -225,9 +205,10 @@
 
 
 
-<h2 align="center">✨ Contributions Over Time</h2>
+<h2 align="center">✨ Rahul Mishra's Contribution Timeline</h2>
 <div align="center">
-![Daily Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=react&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="900" />
+</div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="900" alt="GitHub Stats" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -244,31 +225,3 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 📊 GitHub Commit Graph
-
-![Daily Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy&theme=react&hide_border=true)
-
-![Weekly & Monthly Commits](https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&theme=react-dark&hide_border=true)
-
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" width="900" />
-</div>
-
-
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/machinelearningprodigy)
