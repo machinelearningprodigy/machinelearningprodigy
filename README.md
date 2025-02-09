@@ -255,7 +255,14 @@
 
 
 
+# Daily Commits
+![Daily GitHub Commits](https://activity-graph.herokuapp.com/graph?username=machinelearningprodigy&theme=minimal)
 
+# Weekly & Monthly Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&count_private=true)
+
+# Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=machinelearningprodigy)
 
 
 
