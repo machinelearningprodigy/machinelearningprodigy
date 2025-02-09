@@ -205,7 +205,7 @@
 
 
 
-<h2 align="center">✨ Contributions Over The Time</h2>
+<h2 align="center">✨ Contributions Over Time</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Contribution%20Timeline&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF&area=true&hide_border=true" width="900" />
 </div>
