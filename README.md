@@ -185,7 +185,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/avaantivirus2021">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" height="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45"/>
 </a>
 
 <a href="https://kaggle.com/abcllld">
@@ -197,7 +197,7 @@
 </a>
 
 <a href="https://www.threads.net/@[your-username]">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Threads_%28app%29_logo.svg" width="45" height="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Threads_%28app%29_logo.png" width="45" height="45"/>
 </a>
 
 </div>
