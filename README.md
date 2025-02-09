@@ -154,15 +154,12 @@
 
 
 <!-- Snake Animation -->
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake.svg" />
-      <img width="804px" alt="GitHub Contribution Snake" src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/output/github-snake-dark.svg" />
-    </picture>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/machinelearningprodigy/machinelearningprodigy/output/github-snake.svg" />
+</picture>
+
 
 
 
