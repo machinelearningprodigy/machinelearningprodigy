@@ -48,7 +48,7 @@
 
 
 <!-- Github Stats -->
-<h2 align="center"><img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="80px"> GitHub Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="20px"> GitHub Stats</h2>
 <div width="100%" align="center">
  <a href="https://github.com/machinelearningprodigy">
     <picture>
