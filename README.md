@@ -61,7 +61,13 @@
 <!-- Github Stats -->
 <h2 align="center"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px"/> GitHub Stats</h2>
 <div width="100%" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+     <a href="https://github.com/machinelearningprodigy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=default&hide_border=true&count_private=true" />
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </picture>
+  </a>
 <!--  <a href="https://github.com/machinelearningprodigy">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
