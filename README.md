@@ -3,7 +3,7 @@
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
   <!-- Animated Welcome Text  -->
-  <h1 style="color: #FF69B4;>
+  <h1 style="color: #FF69B4;> 
     <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="30px"/>
      Commit, Build, Succeed!
      <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="30px"/>
