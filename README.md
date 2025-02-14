@@ -1,89 +1,28 @@
-<div style="display: flex; flex-direction: row; width: 100%; gap: 20px;">
-    <div style="width: 50%;">
-        <!-- Top Languages Card -->
-        <picture>
-            <source 
-                media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=400" 
-            />
-            <source 
-                media="(prefers-color-scheme: light)" 
-                srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=400" 
-            />
-            <img 
-                width="100%" 
-                src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=400" 
-                alt="Top Languages" 
-            />
-        </picture>
-    </div>
-    <div style="width: 50%;">
-        <!-- WakaTime Stats Card -->
-        <picture>
-            <source 
-                media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=400" 
-            />
-            <source 
-                media="(prefers-color-scheme: light)" 
-                srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&card_width=400" 
-            />
-            <img 
-                width="100%" 
-                src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=400" 
-                alt="Wakatime Stats" 
-            />
-        </picture>
-    </div>
-</div>
-
-
-
-
-
-
-
-<div width="100%" align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- Top Languages Card -->
-  <a href="https://github.com/machinelearningprodigy" style="width: 49%;">
+<div width="100%" align="center">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
-      />
-      <img 
-        width="100%" 
-        align="center" 
-        src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
-        alt="Top Languages" 
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=450&height=200" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=450&height=200" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=450&height=200" alt="Top Languages" />
     </picture>
   </a>
-
-  <!-- WakaTime Stats Card -->
-  <a href="https://github.com/machinelearningprodigy" style="width: 49%;">
+  <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=495" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&card_width=495" 
-      />
-      <img 
-        width="100%" 
-        align="center" 
-        src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=495" 
-        alt="Wakatime Stats" 
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=450&height=200" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&card_width=450&height=200" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=450&height=200" alt="Wakatime Stats" />
     </picture>
   </a>
 </div>
+
+
+
+
+
+
+
+
+
 
 
 
