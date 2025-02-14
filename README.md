@@ -136,7 +136,7 @@
 
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />Tech Stack</h1>
 <div align="center">
   <!-- Data Science, AI, ML Tools -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
