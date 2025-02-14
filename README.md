@@ -1,56 +1,4 @@
 <div align="center">
-  <!-- Animated Stats Header -->
-  <h2 align="center">
-    <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px" alt="stats animation"/>
-    GitHub Stats
-    <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px" alt="stats animation"/>
-  </h2>
-
-  <!-- Stats Cards Container -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- GitHub Stats Card -->
-    <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=default&hide_border=true&count_private=true&card_width=495" 
-        />
-        <img 
-          width="49%" 
-          src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495" 
-          alt="GitHub Stats"
-        />
-      </picture>
-    </a>
-    <!-- GitHub Streak Stats Card -->
-    <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true&card_width=495" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=default&card_width=495" 
-        />
-        <img 
-          width="49%" 
-          src="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true&card_width=495" 
-          alt="Streak Stats"
-        />
-      </picture>
-    </a>
-  </div>
-</div>
-
-
-
-
-<div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
   
@@ -100,30 +48,52 @@
 
 
 <!-- Github Stats -->
-<h2 align="center"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px"/> GitHub Stats</h2>
-<div width="100%" align="center">
-     <a href="https://github.com/machinelearningprodigy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=default&hide_border=true&count_private=true" />
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </picture>
-  </a>
-  <!-- THIS below is the same as above only but the code is long-->
-<!--  <a href="https://github.com/machinelearningprodigy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
-      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=machinelearningprodigy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
-    </picture>
-  </a> -->
-  <a href="https://github.com/machinelearningprodigy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy" />
-      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true" alt="Streak Stats" />
-    </picture>
-  </a>
+<div align="center">
+  <!-- Animated Stats Header -->
+  <h2 align="center">
+    <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px" alt="stats animation"/>
+    GitHub Stats
+  </h2>
+
+  <!-- Stats Cards Container -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- GitHub Stats Card -->
+    <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=default&hide_border=true&count_private=true&card_width=495" 
+        />
+        <img 
+          width="49%" 
+          src="https://github-readme-stats.vercel.app/api?username=machinelearningprodigy&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495" 
+          alt="GitHub Stats"
+        />
+      </picture>
+    </a>
+    <!-- GitHub Streak Stats Card -->
+    <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true&card_width=495" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=default&card_width=495" 
+        />
+        <img 
+          width="49%" 
+          src="https://github-readme-streak-stats-ranit.vercel.app?user=machinelearningprodigy&theme=radical&hide_border=true&card_width=495" 
+          alt="Streak Stats"
+        />
+      </picture>
+    </a>
+  </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
