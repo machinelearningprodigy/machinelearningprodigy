@@ -6,7 +6,7 @@
   <h1>
     <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="30px"/>
      Commit, Build, Succeed!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" />
+     <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="30px"/>
   </h1>
   
 <!-- Typing SVG -->
