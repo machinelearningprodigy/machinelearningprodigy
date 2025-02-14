@@ -100,7 +100,14 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> Language & Coding Activity</h2>
 
-<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 50px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50"/> <span>Language & Coding Activity</span>
+<h2 align="left" style="display: flex; align-items: center; padding: 20px; background-color: #0d1117; color: white; gap: 15px;">
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" 
+    alt="Man Technologist Light Skin Tone" 
+    width="50" 
+    height="50"
+  />
+  <span style="font-size: 32px; font-weight: 600;">Language & Coding Activity</span>
 </h2>
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
