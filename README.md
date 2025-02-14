@@ -1,3 +1,15 @@
+<!-- Advanced Stats with Animations -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1999neha&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1999neha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+</p>
+
+
+
+
+
+
+
 <div align="center">
   <!-- Header Banner -->
   <img src="https://github.com/machinelearningprodigy/machinelearningprodigy/blob/main/bannerimage.png" width="100%">
