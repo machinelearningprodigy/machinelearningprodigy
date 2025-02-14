@@ -1,3 +1,50 @@
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
+  <!-- Top Languages Card -->
+  <a href="https://github.com/machinelearningprodigy" style="flex: 1;">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
+      />
+      <img 
+        width="100%" 
+        src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=machinelearningprodigy&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&card_width=495" 
+        alt="Top Languages" 
+      />
+    </picture>
+  </a>
+  <!-- WakaTime Stats Card -->
+  <a href="https://github.com/machinelearningprodigy" style="flex: 1;">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=495" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14&card_width=495" 
+      />
+      <img 
+        width="100%" 
+        src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=495" 
+        alt="Wakatime Stats" 
+      />
+    </picture>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
 <div width="100%" align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Top Languages Card -->
   <a href="https://github.com/machinelearningprodigy" style="width: 49%;">
