@@ -199,10 +199,10 @@
 
 
 <!-- Connect With Me -->
-<h2 align="center">
+<h1 align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
   Connect with me
-</h2>
+</h1>
 <div align="center">
  <a href="https://twitter.com/nitishm66803568">
    <img src="https://skillicons.dev/icons?i=twitter" />
@@ -250,7 +250,7 @@
 
 
 <!-- Footer -->
-<h3 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="25px"/> </h3>
+<h1 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="30px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="30px"/> </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
