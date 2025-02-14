@@ -50,10 +50,10 @@
 <!-- Github Stats -->
 <div align="center">
   <!-- Animated Stats Header -->
-  <h2 align="center">
+  <h1 align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px" alt="stats animation"/>
     GitHub Stats
-  </h2>
+  </h1>
 
   <!-- Stats Cards Container -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -174,7 +174,7 @@
 
 
 <!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies</h1>
 <div width="100%" align="center">
   <a href="https://github-trophy.vercel.app">
     <picture>
