@@ -26,7 +26,6 @@
         />
       </picture>
     </a>
-
     <!-- GitHub Streak Stats Card -->
     <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
       <picture>
