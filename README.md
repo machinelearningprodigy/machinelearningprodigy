@@ -119,7 +119,8 @@
   </a>
 </div>
 
-
+<br>
+<br>
 <!-- Profile Views and WakaTime -->
 <div align="center">
   <a href="https://wakatime.com/@rahul_linux">
