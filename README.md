@@ -250,7 +250,7 @@
 
 
 <!-- Footer -->
-<h1 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="30px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="30px"/> </h1>
+<h1 align="center"> <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="40px"/> Thank you for visiting my profile! <img src="https://media.tenor.com/zdo461V28w8AAAAi/cora%C3%A7%C3%A3o-fogo.gif" width="40px"/> </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
