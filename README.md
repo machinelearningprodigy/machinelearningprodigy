@@ -170,7 +170,6 @@
 
 
 
-
 <!-- Trophies -->
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies</h1>
 <div width="100%" align="center">
