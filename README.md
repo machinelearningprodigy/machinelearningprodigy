@@ -29,6 +29,9 @@
 
 </div>
 
+
+
+
 <!-- About Me Section -->
 <img align="right" width="30%" src="https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif">
 
