@@ -58,8 +58,7 @@
 <div align="center">
   <!-- Animated Stats Header -->
   <h1 align="center">
-    <img src="![Uploading image.png…]()
-" width="30px" alt="stats animation"/>
+    <img src="https://media.tenor.com/3eeOYZ3cDpEAAAAC/stonks-chart.gif" width="30px" alt="stats animation"/>
     GitHub Stats
   </h1>
 
