@@ -58,7 +58,7 @@
 <div align="center">
   <!-- Animated Stats Header -->
   <h1 align="center">
-    <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="25px" alt="stats animation"/>
+    <img src="https://lottiefiles.com/free-animation/rising-stats-graph-dhNC2X7pd9" width="30px" alt="stats animation"/>
     GitHub Stats
   </h1>
 
