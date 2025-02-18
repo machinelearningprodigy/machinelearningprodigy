@@ -58,7 +58,7 @@
 <div align="center">
   <!-- Animated Stats Header -->
   <h1 align="center">
-    <img src="![icons8-combo-chart](https://github.com/user-attachments/assets/49cc7af9-7a97-48d7-8817-5325e6a2da16)
+    <img src="https://i2.wp.com/jonmgomes.com/wp-content/uploads/2020/01/Bar_Chart_4_Columns_.gif
 " width="30px" alt="stats animation"/>
     GitHub Stats
   </h1>
