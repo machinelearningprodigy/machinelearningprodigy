@@ -243,7 +243,7 @@
 
 
 
-<h2 align="center">✨ Contribution Timeline</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30px"> Contribution Timeline</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Rahul%20Mishra's%20Contribution%20Timeline&bg_color=0D1117&color=05F4FF&title_color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="1000" />
 </div>
