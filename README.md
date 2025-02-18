@@ -39,7 +39,7 @@
 <!-- About Me Section -->
 <img align="right" width="30%" src="https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm [Rahul Mishra](https://rahulmishra-two.vercel.app/)
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fb/512.gif" width="30px" /> I'm [Rahul Mishra](https://rahulmishra-two.vercel.app/)
 
 <h3>A Tech Enthusiast from India</h3>
 
