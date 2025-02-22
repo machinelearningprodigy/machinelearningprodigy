@@ -1,31 +1,31 @@
-name: Generate Snake Animation
+# name: Generate Snake Animation
 
-on:
-  workflow_dispatch:  # Allows manual trigger
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+# on:
+#   workflow_dispatch:  # Allows manual trigger
+#   schedule:
+#     - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
-jobs:
-  generate:
-    name: Snake Animation
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+# jobs:
+#   generate:
+#     name: Snake Animation
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: "machinelearningprodigy"  # Replace with your GitHub username
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+#       - name: Generate Snake Animation
+#         uses: Platane/snk@v3
+#         with:
+#           github_user_name: "machinelearningprodigy"  # Replace with your GitHub username
+#           outputs: |
+#             dist/github-snake.svg
+#             dist/github-snake-dark.svg?palette=github-dark
+#             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       - name: Upload to Output Branch
+#         uses: crazy-max/ghaction-github-pages@v3
+#         with:
+#           target_branch: output
+#           build_dir: dist
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
