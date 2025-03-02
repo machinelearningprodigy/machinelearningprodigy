@@ -190,11 +190,6 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<br>
-<br
-
 <!-- Achievemnets -->
 <h1 align="center">🥇 GitHub Achievements</h1>
 
@@ -213,14 +208,8 @@
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Quickdraw</b>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <br>
 <br
-
-  
-<!-- Contribution Graph -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -255,16 +244,12 @@
 <a href="https://discord.com/users/rahuder">
    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
 </a>
-
-
-
-
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-
+<!-- Contribution Graph -->
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30px"> Contribution Timeline</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Rahul%20Mishra's%20Contribution%20Timeline&bg_color=0D1117&color=05F4FF&title_color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="1000" />
