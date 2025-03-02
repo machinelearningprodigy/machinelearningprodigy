@@ -190,9 +190,10 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
 <!-- Achievemnets -->
 <h1 align="center">🥇 GitHub Achievements</h1>
-
 <p align="center">
     <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100">
@@ -200,7 +201,6 @@
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
     <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
 </p>
-
 <p align="center">
     <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Pair Extraordinaire</b> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -208,9 +208,8 @@
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Quickdraw</b>
 </p>
-<br>
-<br
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 
 
