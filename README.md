@@ -194,10 +194,33 @@
 <br>
 <br
 
+<!-- Achievemnets -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=🎖+GitHub+Achievements" alt="Typing SVG">
+</p>
+
+<p align="center">
+    <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
+    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
+</p>
+
+<p align="center">
+    <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Pair Extraordinaire</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Quickdraw</b>
+</p>
 
 
+<br>
+<br
+
+  
 <!-- Contribution Graph -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
