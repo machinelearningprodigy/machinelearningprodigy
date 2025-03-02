@@ -188,6 +188,7 @@
     </picture>
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -195,9 +196,7 @@
 <br
 
 <!-- Achievemnets -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=🎖+GitHub+Achievements" alt="Typing SVG">
-</p>
+<h1 align="center">🥇 GitHub Achievements</h1>
 
 <p align="center">
     <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
@@ -214,6 +213,7 @@
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Quickdraw</b>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <br>
