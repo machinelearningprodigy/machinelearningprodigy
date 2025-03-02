@@ -211,6 +211,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<!-- Contribution Graph -->
+<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30px"> Contribution Timeline</h1>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Rahul%20Mishra's%20Contribution%20Timeline&bg_color=0D1117&color=05F4FF&title_color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="1000" />
+</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="900" alt="GitHub Stats" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Connect With Me -->
 <h1 align="center">
@@ -243,18 +252,6 @@
    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
 </a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<!-- Contribution Graph -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30px"> Contribution Timeline</h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningprodigy&custom_title=Rahul%20Mishra's%20Contribution%20Timeline&bg_color=0D1117&color=05F4FF&title_color=05F4FF&line=05F4FF&point=FFFFFF&area=true&hide_border=true" width="1000" />
-</div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machinelearningprodigy&theme=radical" width="900" alt="GitHub Stats" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Footer -->
