@@ -191,8 +191,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-<!-- Achievemnets -->
+<!-- Achievements -->
 <h1 align="center">🥇 GitHub Achievements</h1>
 <p align="center">
     <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
@@ -200,13 +199,15 @@
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
     <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-default-6a15b41e4b7b.png" width="100">
 </p>
 <p align="center">
     <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Pair Extraordinaire</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Quickdraw</b>
+    <b>Quickdraw</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Galaxy Brain</b>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
