@@ -199,7 +199,7 @@
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
     <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
-    <img src="https://github.githubassets.com/assets/galaxy-brain-default-6a15b41e4b7b.png" width="100">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="100">
 </p>
 <p align="center">
     <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
