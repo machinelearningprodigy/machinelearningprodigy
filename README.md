@@ -179,6 +179,12 @@
     <img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" alt="Miro" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=HsV0BZAmh5Qy&format=png&color=000000" alt="Evernote" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="Word" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="Powerpoint" width="40" height="40"/>
+    
 </div>
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
