@@ -262,7 +262,7 @@ If you find my work useful, consider supporting me!
   Connect with me
 </h1>
 <div align="center">
- <a href="https://twitter.com/nitishm66803568">
+ <a href="https://twitter.com/rahumishralive">
    <img src="https://skillicons.dev/icons?i=twitter" />
  </a>
  <a href="https://linkedin.com/in/rahul-mishra-9a8826269">
