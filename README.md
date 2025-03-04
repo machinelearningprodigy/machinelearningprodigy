@@ -160,9 +160,10 @@
   <br/>
   
   <!-- Web Development Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,js,ts" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,firebase,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  
   <br/>
   
   <!-- Other Tools -->
@@ -171,6 +172,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
 </div>
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
