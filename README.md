@@ -41,23 +41,25 @@
 
 - 🧑‍💻 **Associate Full Stack Developer** at [**Madify**](https://madify.in/).  
 - 📱 **App Developer (Intern)** at [**Indian Institute Of Technology, Guwahati**](https://www.iitg.ac.in/).  
-- 🏫 Pursuing a **Bachelor's Degree in Computer Science** at [**Assam Down Town University**](https://www.adtu.in).  
+- 🏫 **Bachelor's Degree in Computer Science** at [**Assam Down Town University**](https://www.adtu.in).  
 - 📚 Proficient in **Machine Learning** and **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://rahulmishra-two.vercel.app) to explore projects and achievements.  
 - 📧 Reach me via [**Email**](mailto:avaantivirus2021@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahul-mishra-9a8826269/).  
 - 📍 Based in **Guwahati, Assam, India**.  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+<!-- Once the open source project is live enable this badeg
 ---
 
 ### 💖 **Support My Open-Source Work**  
 If you find my work useful, consider supporting me!  
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/machinelearningprodigy)  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
+-->
 
 
 <!-- Github Stats -->
@@ -113,7 +115,7 @@ If you find my work useful, consider supporting me!
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Language & Coding Activity </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40"/> Language & Coding Activity </h1>
 
 <div width="100%" align="center">
   <a href="https://github.com/machinelearningprodigy">
@@ -125,7 +127,7 @@ If you find my work useful, consider supporting me!
   </a>
   <a href="https://github.com/machinelearningprodigy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=20" />
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=20" /> -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&langs_count=14" />
       <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=rahul_linux&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
     </picture>
@@ -148,49 +150,49 @@ If you find my work useful, consider supporting me!
 
 
 <!-- Tech Stack -->
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" /> Tech Stack</h1>
 <div align="center">
   <!-- Data Science, AI, ML Tools -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  <br/>
-  
-  <!-- Web Development Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  
-  <br/>
-  
-  <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode,github,ubuntu" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" alt="Miro" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=HsV0BZAmh5Qy&format=png&color=000000" alt="Evernote" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="Word" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="Powerpoint" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="spyder" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40"/>
+<br/>
+
+<!-- Web Development Tools -->
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
+<br/>
+
+<!-- Other Tools -->
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode,github,ubuntu" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" alt="Miro" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=HsV0BZAmh5Qy&format=png&color=000000" alt="Evernote" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="Word" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="Powerpoint" width="40"/>
+</div>
     
 </div>
 <!-- Animated Separator -->
@@ -199,7 +201,7 @@ If you find my work useful, consider supporting me!
 
 
 <!-- Trophies -->
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies</h1>
 <div width="100%" align="center">
   <a href="https://github-trophy.vercel.app">
     <picture>
@@ -275,17 +277,22 @@ If you find my work useful, consider supporting me!
 <a href="https://medium.com/@avaantivirus2021">
    <img src="https://skillicons.dev/icons?i=md" />
 </a>
-
 <a href="https://www.hackerrank.com/avaantivirus2021">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" height="45"/>
+   <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0" width="45">
 </a>
 
 <a href="https://kaggle.com/abcllld">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45"/>
 </a>
 
+<!--this is the perfect widht and hight if anything goes wrong -->
+<!-- <a href="https://kaggle.com/abcllld">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45"/>
+</a> -->
+
+
 <a href="https://discord.com/users/rahuder">
-   <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
+   <img src="https://skillicons.dev/icons?i=discord" width="45">
 </a>
 </div>
 
@@ -296,6 +303,4 @@ If you find my work useful, consider supporting me!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<div align="center">
-<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;"/>
-</div>
+
