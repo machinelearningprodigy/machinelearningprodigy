@@ -37,12 +37,15 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="30px" /> I'm [Rahul Mishra](https://rahulmishra-two.vercel.app/)
 
-<h3>A Tech Enthusiast from India</h3>
-- 🏫 **Bachelor's Degree in Computer Science** at [**Assam Down Town University**](https://www.adtu.in).  
-- 📚 Proficient in **Machine Learning** and **Full Stack Development**.  
-- 🌐 Visit my [**Portfolio**](https://rahulmishra-two.vercel.app) to explore projects and achievements.  
-- 📧 Reach me via [**Email**](mailto:avaantivirus2021@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahul-mishra-9a8826269/).  
-- 📍 Based in **Guwahati, Assam, India**.  
+<h3>Full Stack AI Developer | Building Products with Machine Learning & Deep Learning</h3>
+
+- 🚀 **Full Stack AI Developer** with **3+ years of experience** building and shipping real-world products, from idea to production.
+- 🧠 Proficient in **Machine Learning** and **Deep Learning**, turning models into usable, scalable features.
+- 💻 Strong **Full Stack Development** skills across frontend, backend, APIs, and deployment.
+- 🏫 **Bachelor's Degree in Computer Science** from [**Assam Down Town University**](https://www.adtu.in).
+- 🌐 Explore my projects and achievements on my [**Portfolio**](https://rahulmishra-two.vercel.app).
+- 📧 Reach me via [**Email**](mailto:avaantivirus2021@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahul-mishra-9a8826269/).
+- 📍 Based in **Guwahati, Assam, India**. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
