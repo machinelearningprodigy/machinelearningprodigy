@@ -38,9 +38,6 @@
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="30px" /> I'm [Rahul Mishra](https://rahulmishra-two.vercel.app/)
 
 <h3>A Tech Enthusiast from India</h3>
-
-- 🧑‍💻 **Associate Full Stack Developer** at [**Madify**](https://madify.in/).  
-- 📱 **App Developer (Intern)** at [**Indian Institute Of Technology, Guwahati**](https://www.iitg.ac.in/).  
 - 🏫 **Bachelor's Degree in Computer Science** at [**Assam Down Town University**](https://www.adtu.in).  
 - 📚 Proficient in **Machine Learning** and **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://rahulmishra-two.vercel.app) to explore projects and achievements.  
